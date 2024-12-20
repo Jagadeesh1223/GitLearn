@@ -1,2 +1,2 @@
 # GitLearn
-Mentor: Jagadeesh Mantri
+Jagadeesh Mantri
